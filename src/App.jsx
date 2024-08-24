@@ -11,7 +11,7 @@ function App() {
       <div className="App">
       <Header />
           <Routes>
-            <Route path="/:userId" element={<Blog />} />
+            <Route path="/" element={<Blog />} />
             <Route path="*" element={<NotFound />} />
             {/* Ajouter d'autres routes ici si nécessaire */}
           </Routes>
