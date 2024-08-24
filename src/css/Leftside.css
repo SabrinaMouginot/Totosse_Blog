@@ -1,0 +1,30 @@
+.left-side {
+  width: 15%;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  border: 2px solid white;
+  box-sizing: border-box;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #4b365c;
+}
+.left-side .profile-box {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.left-side .profile-box h2 {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.left-side .profile-box h2 .baby {
+  color: #b90101;
+}
+.left-side .profile-box p .baby {
+  color: #b90101;
+}
+
+/*# sourceMappingURL=Leftside.css.map */
