@@ -1,0 +1,22 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4b365c;
+  height: auto;
+  padding: 10px;
+  border: 2px solid #4b365c;
+  border-radius: 10px;
+  width: 90vw;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0;
+}
+.Header h1 {
+  margin: 0;
+}
+.Header h1 .totosse {
+  color: #1af6f6;
+}
+
+/*# sourceMappingURL=Header.css.map */
