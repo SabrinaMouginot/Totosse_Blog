@@ -1,7 +1,9 @@
+import '../css/Header.css'
+
 function Header() {
     return (
-        <div>
-
+        <div className="Header">
+            <h1><span className='totosse'>TOTOSSE</span> BLOG</h1>
         </div>
     )
 }
