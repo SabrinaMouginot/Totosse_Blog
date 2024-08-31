@@ -1,9 +1,10 @@
-import '../sass/RightSide.scss'
+import '../css/RightSide.css'
+import Totosse from '../components/Totosse'
 
 function RightSide() {
     return (
         <div className="right-side">
-            <p>X</p>
+            <Totosse/>
         </div >
     )
 }
